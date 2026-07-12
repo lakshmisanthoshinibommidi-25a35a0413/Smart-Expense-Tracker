@@ -157,6 +157,6 @@ python3 main.py
 
 ## 👨‍💻 Author
 
-Developed by **Santhur**
+Developed by **lakshmi santhoshini bommidi**
 
 Python • SQLite • Matplotlib
