@@ -144,7 +144,7 @@ python3 main.py
 ---
 
 ## 📷 Sample Features
-<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/8a419283-25a5-4a48-866b-dfaabde5abdb" />
+
 
 * Register/Login
 * Dashboard
@@ -153,7 +153,14 @@ python3 main.py
 * Charts
 * Budget Analysis
 * CSV Export
+* <img width="1366" height="768" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/830a4552-3a50-4a20-9cad-d37b6b36d382" />
+<img width="1366" height="768" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/41181f45-7630-4bb9-bc54-501c23bbf1f6" />
+<img width="1366" height="768" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/0189ff46-c19f-49c0-b9ea-9772a5328108" />
+<img width="1366" height="768" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/c52d76fb-ebd7-4eab-a645-88ad397ac39b" />
+<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/63142974-9078-40fc-a360-62d834c216ee" />
 
+
+<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/8a419283-25a5-4a48-866b-dfaabde5abdb" />
 ---
 
 ## 👨‍💻 Author
