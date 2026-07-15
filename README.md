@@ -144,6 +144,7 @@ python3 main.py
 ---
 
 ## 📷 Sample Features
+<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/8a419283-25a5-4a48-866b-dfaabde5abdb" />
 
 * Register/Login
 * Dashboard
